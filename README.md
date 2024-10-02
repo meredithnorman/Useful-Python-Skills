@@ -1,5 +1,5 @@
 # Useful-Python-Skills
-This repository will store useful snippets of Python code that I have developed in my Intermediate Python course. Some code may require additional files to be loaded.
+This repository will store useful snippets of Python code that I have developed in my Intermediate Python course. Useful may be a stretch for these functions/code snippets but you never know! Some code may require additional files to be loaded.
 
 # Contents
 # Files & Exceptions
